@@ -70,6 +70,6 @@ python run.py
 Here's the video presentation for the National Hospital app in below⬇️
 <br>
 <br>
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi//0.jpg)]()
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/3zspnrA_A5w/0.jpg)](https://www.youtube.com/watch?v=3zspnrA_A5w)
 
 
